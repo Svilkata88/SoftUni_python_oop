@@ -16,6 +16,8 @@ def solution():
             result.append(next(seq))
         return result
 
+    return take, halves, integers
+
 
 # test code!
 take = solution()[0]
